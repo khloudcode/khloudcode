@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @khloudcode
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Header](https://pin.it/4yfgrxehb)
 
-<!---
-khloudcode/khloudcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi There !!
+## I'm Khloud Ahmed  
+### Welcome To My Profile 🚀
+
+### 💡 About Me:
+- 🎯 Passionate Software Developer
+- 🧑‍💻 Experienced in Python, JavaScript, HTML, CSS and Web Development
+- 🚀 Learning and Building cool projects
+
+---
+
+### 🔗 My Profiles (Click Any Icon To Reach Me) 🌐:
+
+[![Telegram](https://t.me/khloudahmed24)
+
+### ☁ Tech Stack:
+![Upwork](https://www.upwork.com/freelancers/~01a678eeef02c9c7a6)
+
+---
+
+📫 **Feel free to connect!** 🚀
