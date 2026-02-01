@@ -2,7 +2,7 @@
 # 💫 About Me:
 Software developer combining programming with 3D technologies.<br>Passionate about learning and building real projects.
 
-
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmFqb3k5eG9zc3ltcm9sdDU1cWNybzJjNXBqNHY1em01NnNtMTZydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/khloudahmed12) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/khloud11124) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1XgvTGxTGr/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/khloud2410?igsh=N3cxaXZodGo0ZmYx) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/1WdsxfwsS) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tiktok.com/@khloud.ahmed61) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akhloud827@gmail.com) 
 
